@@ -2,7 +2,7 @@
 Fate GO roll calc
 Calculator to see your odds on getting a specific rate up.
 
-Use core.distributeBuiltIn(core, numberOfRolls, precentChance, NPx, showDistributionCurve) method in rolls.py
+Use core.distributeBuiltIn(core, numberOfRolls, percentChance, NPx, showDistributionCurve) method in rolls.py
 
 For example:
 
